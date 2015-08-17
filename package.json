@@ -1,0 +1,27 @@
+{
+  "name": "winston-log",
+  "version": "1.0.0",
+  "description": "log wrapper used in phoncol project based winston",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phoncol/winston-log.git"
+  },
+  "keywords": [
+    "winston",
+    "log",
+    "phoncol"
+  ],
+  "author": "caiying",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phoncol/winston-log/issues"
+  },
+  "homepage": "https://github.com/phoncol/winston-log#readme",
+  "dependencies": {
+    "winston": "^1.0.1"
+  }
+}
